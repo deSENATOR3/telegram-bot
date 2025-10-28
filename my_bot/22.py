@@ -19,7 +19,7 @@ from telegram.ext import (
 )
 
 # 🔹 Bot tokeningizni shu yerga yozing
-BOT_TOKEN = "8020408213:AAGa9f9KFwaHmn1d2B4-rmcOyFe1-Gb1SfQ"
+BOT_TOKEN = "8020408213:AAGs4JiNp_fmUfT1qHyklaQfT0Lfv2nTYww"
 
 # 🔹 Excel fayl manzili
 EXCEL_PATH = "jadval.xlsx"
