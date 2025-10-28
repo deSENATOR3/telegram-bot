@@ -1,7 +1,7 @@
 services:
-  - type: worker
+  - type: web
     name: telegram-schedule-bot
     env: python
     plan: free
-    buildCommand: "pip install -r requirements.txt"
-    startCommand: "python 22.py"
+    buildCommand: "pip install -r my_bot/requirements.txt"
+    startCommand: "python my_bot/22.py"
